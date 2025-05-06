@@ -1,0 +1,13 @@
+# .streamlit/config.toml
+
+[theme]
+# Couleurs inspirées de Google / Material Design
+primaryColor="#1a73e8" # Bleu Google comme couleur primaire (boutons, etc.)
+backgroundColor="#ffffff" # Fond blanc propre
+secondaryBackgroundColor="#f0f2f5" # Gris très clair pour les arrière-plans secondaires (comme la sidebar)
+textColor="#202124" # Gris foncé pour le texte principal (bonne lisibilité)
+
+# Police de caractères - Utilise une police sans-serif système standard, propre et moderne
+# Vous pourriez spécifier "Roboto" ou "Google Sans" si elles sont installées,
+# mais "sans serif" est une option sûre et multi-plateforme.
+font="sans serif"

@@ -1,0 +1,1 @@
+[{"role": "user", "content": "hello i have a headache"}, {"role": "assistant", "content": "Error: 'GenerativeModel' object has no attribute 'generate_content_stream'"}]
